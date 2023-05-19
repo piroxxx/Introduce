@@ -7,7 +7,7 @@
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m @0x35p4triot
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning KMA
-- 💞️ I’m looking to collaborate on [`Here`](https://github.com/piropatriot)
+- 💞️ I’m looking to collaborate on [`Here`](https://github.com/0x35p4triot)
 - 📫contact : piropatriot@gmail.com
 
 <!---
